@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Step 9 - Use emphasis
+
+**This is bold text**
+
+*This text is italicized*
+
+~~This was mistaken text~~
+
+**This text is _extremely_ important**
